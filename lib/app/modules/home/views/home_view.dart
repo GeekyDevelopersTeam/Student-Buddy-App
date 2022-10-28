@@ -15,7 +15,7 @@ class HomeView extends GetView<HomeController> {
       duration: 5000,
       imageSize: 130,
       imageSrc: "splashscreen_image.png",
-      text: "Splash Screen",
+      text: "Welcome to Student Buddy",
       textType: TextType.ColorizeAnimationText,
       textStyle: TextStyle(
         fontSize: 40.0,
